@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/card_payment_monochromatic.xml" value="0.331" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/cripto_ethereum.xml" value="0.3465" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/currency_flatline.xml" value="0.331" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/ethereum_flatline.xml" value="0.331" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/finance_app_flatline.xml" value="0.331" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/finance_organization.xml" value="0.3465" />
+        <entry key="..\:/Users/Gledson/AndroidStudioProjects/OnBoardingJetpackCompose/app/src/main/res/drawable/online_payment_flatline.xml" value="0.331" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
